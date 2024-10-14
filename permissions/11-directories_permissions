@@ -1,0 +1,4 @@
+#!/bin/bash
+find . -
+find
+type d -exec chmod +x {} \;
