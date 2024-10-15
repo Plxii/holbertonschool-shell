@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -h  vincent:staff hello 
+chmod --no-dereference vincent:staff _hello
