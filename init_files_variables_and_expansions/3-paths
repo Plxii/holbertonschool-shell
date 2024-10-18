@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $PATH | wc -l
+DIRS=$PATH(find . -type d)
