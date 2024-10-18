@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$PATH(find . -type d)
+echo "$PATH" | tr ':' '\n' | grep -c '^/'
